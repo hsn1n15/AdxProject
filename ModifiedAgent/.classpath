@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="/home/hsn/Documents/Materi Kuliah/2016-SMT1/COMP6203 - Intelligent Agents/Coursework/adx-agent/lib/adx-1.2.8.jar"/>
-	<classpathentry kind="lib" path="/home/hsn/Documents/Materi Kuliah/2016-SMT1/COMP6203 - Intelligent Agents/Coursework/adx-agent/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/hsn/javalib/adx-1.2.8.jar"/>
+	<classpathentry kind="lib" path="/home/hsn/javalib/commons-lang3-3.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

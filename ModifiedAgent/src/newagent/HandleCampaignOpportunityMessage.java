@@ -5,6 +5,7 @@
 package newagent;
 
 import java.util.Random;
+
 import tau.tac.adx.report.demand.AdNetBidMessage;
 import tau.tac.adx.report.demand.CampaignOpportunityMessage;
 

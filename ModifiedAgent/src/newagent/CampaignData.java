@@ -1,6 +1,7 @@
 package newagent;
 
 import java.util.Set;
+
 import tau.tac.adx.demand.CampaignStats;
 import tau.tac.adx.props.AdxQuery;
 import tau.tac.adx.report.adn.MarketSegment;
